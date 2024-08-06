@@ -1,2 +1,2 @@
 # NeetCode75
-Coding Practice Everyday
+Coding Practice Everyday from NeetCode Blind 75
